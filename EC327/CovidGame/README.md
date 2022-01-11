@@ -1,2 +1,2 @@
-# PA3
-Initial Goal is to create Checkpoints 1 and 2
+# EC327 Programming Assignment - Covid Game using C++ 
+Using object oriented programming I was able to make a game where your players have to complete school assignments before getting infected with Covid-19. They walk along a 20 by 20 grid with a couple Classrooms and Doctor's Offices. You win if your students go to Classrooms and complete all of their assignments. You lose if they get infected first! Students earn money by walking around, but they also lose antibodies. The way to prevent infection is by going to Doctor's Offices and getting vaccines. This assignment serves as a display of my C++ skills, particularly encapsulation, pointers to objects, operator overloading, inheritance, and polymorphism.
